@@ -1,4 +1,4 @@
-mport psutil
+import psutil
 import platform
 import json
 from datetime import datetime
